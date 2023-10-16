@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+$body-bg: #580B3A;
+$body-color: #EEE4EE;
+$link-color: #FFCCFF;
+$presentation-heading-color: #EEE4EE;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+.hscroll {
+  overflow: auto;
+  white-space: nowrap;
+}

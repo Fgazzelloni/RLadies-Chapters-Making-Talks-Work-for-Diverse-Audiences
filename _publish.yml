@@ -1,0 +1,4 @@
+- source: presentation.qmd
+  quarto-pub:
+    - id: 35abd4ed-60fe-4798-9c83-3d9509316221
+      url: 'https://quartopub.com/sites/fgazzelloni/rladies_chapters_talks'
